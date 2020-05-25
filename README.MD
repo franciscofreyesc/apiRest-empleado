@@ -18,7 +18,7 @@ Desde la terminal, usar el siguiente comando:
 npm install express mysql dotenv
 ```
 
-## Instalación de dependencias
+## Inicio de la aplicación
 Para iniciar la app, ejecutar el siguiente comando en la terminal:
 
 ```
